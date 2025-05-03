@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "95945129620",
+    "project_id": "glow-2aa80",
+    "storage_bucket": "glow-2aa80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95945129620:android:9e7c9959537f6552d53e81",
+        "android_client_info": {
+          "package_name": "com.example.glow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7q3A1iZMlglvXu_nILjXy3VchHC0Ttic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
